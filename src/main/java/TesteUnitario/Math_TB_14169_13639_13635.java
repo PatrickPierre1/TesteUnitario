@@ -1,7 +1,7 @@
 package TesteUnitario;
 
 //RA: 14169
-public class Math_RAsAlunos {
+public class Math_TB_14169_13639_13635 {
     public static Integer adicionar(Integer a, Integer b) {
         return a + b;
     }
